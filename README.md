@@ -17,8 +17,8 @@
  
  ----------------
  &emsp;&emsp;**2019**,关键字:面试造火箭,工作拧螺丝.大浪淘金已经刷走一部分人转行,坚持 Android 的都是勇士.
- 为此我们共建微信群,手撕算法,坚持健身打卡,如果你想加入我们的队伍.
- 不妨 star 一下,添加个人微信 [Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png),带你共同进步,突破 Android 开发瓶颈
+ 为此我们共建微信群,手撕算法,坚持健身打卡,如果你觉的本项目对你有所帮助,
+ 不妨 star 一下,带你共同进步,突破 Android 开发瓶颈
 
 ### 今日面试题 （2019-08-02）
 
@@ -28,7 +28,7 @@
 
 ### 如何贡献？
  
-&emsp;&emsp;你也可以添加个人微信 [Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png)，参与本项目的维护或者讨论
+&emsp;&emsp;你可以添加个人微信 [Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png)，参与本项目的维护或者讨论
 
 ### 题海战区
  
@@ -41,6 +41,6 @@
 
 ### 最后
 
- &emsp;&emsp;建立这个project目的是为了查漏补缺,巩固大家的Android基础,有什么好的建议进群探讨,添加好友请备注**地址-姓名**
+ &emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder学员查漏补缺,巩固大家的Android基础,有什么好的建议欢迎进群探讨,添加好友请备注**城市-姓名**
 
 
