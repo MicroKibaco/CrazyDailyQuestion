@@ -15,7 +15,7 @@
 
 ## Thanks
 
- 
+ 感谢 [Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview),[HenCoder Plus](https://hencoder.com/) 为广大安卓开发者无私提供一个比较全面的 Android 学习平台，此项目部分灵感亦来源于此。
 
 
 ## 最后
