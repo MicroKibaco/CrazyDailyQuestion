@@ -17,14 +17,14 @@
  
  ----------------
  &emsp;&emsp;**2019**,关键字:面试造火箭,进去拧螺丝.大浪淘金已经刷走一部分人转行,坚持 Android 的都是勇士.
- 为此我们共建微信群,手撕算法,坚持健身运动,如果你想加入我们的队伍.
+ 为此我们共建微信群,手撕算法,坚持健身打卡,如果你想加入我们的队伍.
  不妨点star加关注个人微信 [Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png),带你突破 Android 瓶颈,进阶高级开发
 
 ### 今日面试题 （2019-08-02）
 
  
 
-#### [讲述一下Https的连接建立过程? ](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
+####  &emsp;&emsp;[讲述一下Https的连接建立过程? ](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
 
 ### 如何贡献？
  
@@ -36,7 +36,7 @@
 
 ### Thanks
 
-> 感谢[**南尘每日一问**](https://www.cnblogs.com/liushilin/tag/每日一问/),[**玩 Android**](https://www.wanandroid.com/), [**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),[**HenCoder Plus**](https://hencoder.com/) 为广大安卓开发者无私提供一个比较全面的 Android 学习进阶平台，此项目部分灵感并非本人创意,如有侵权,请联系我 [Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png) 修改
+>  &emsp;&emsp;感谢[**南尘每日一问**](https://www.cnblogs.com/liushilin/tag/每日一问/),[**玩 Android**](https://www.wanandroid.com/), [**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),[**HenCoder Plus**](https://hencoder.com/) 为广大安卓开发者无私提供一个比较全面的 Android 学习进阶平台，此项目部分灵感并非本人创意,如有侵权,请联系我 [Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png) 修改
 
 
 ### 最后
