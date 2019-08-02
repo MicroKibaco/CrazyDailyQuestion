@@ -1,6 +1,6 @@
  <p align="center">
    <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
- 	  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/title.png" width="1000" height="500"/>
+ 	  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/title.png" width="1200" height="200"/>
    </a>
  </p>
  
