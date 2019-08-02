@@ -1,6 +1,6 @@
  <p align="center">
    <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
- 	  <img src="https://raw.githubusercontent.com/Moosphan/SelfAssetRepository/9771fdbac7a687011cd2f286eccd97a7ffeea27b/github/images/interview_logo.png" width="400" height="216"/>
+ 	  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/title.png" width="400" height="216"/>
    </a>
  </p>
  
