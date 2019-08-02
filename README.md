@@ -8,7 +8,7 @@
 
 ## 如何贡献？
  
-4. 你也可以加入个人微信[Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png)，参与本项目的维护或者讨论
+你也可以加入个人微信[Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png)，参与本项目的维护或者讨论
 
 ## 历史汇总区
  
