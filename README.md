@@ -9,7 +9,7 @@
    <a href="#交流"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%8F%B7-Tel18390833563-blue.svg"></a>
    <a href="#贡献"><img src="https://img.shields.io/badge/Welcome-%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC-orange.svg" alt="如何贡献？"></a>
    <a href="https://www.wanandroid.com"><img src="https://img.shields.io/badge/Thanks-wanandroid-%23095B87.svg" alt="Thanks"></a>
-   <a href="https://github.com/Moosphan/Android-Daily-Interview"><img src="https://img.shields.io/badge/Thanks-Android-Daily-Interview-%23095B87.svg" alt="Thanks"></a>
+   <a href="https://github.com/Moosphan/Android-Daily-Interview"><img src="https://img.shields.io/badge/Thanks-AndroidDailyInterview-%23095B87.svg" alt="Thanks"></a>
    <a href="https://www.cnblogs.com/liushilin/tag/每日一问/"><img src="https://img.shields.io/badge/Thanks-南尘-%23095B87.svg" alt="Thanks"></a>
 </p>
  
