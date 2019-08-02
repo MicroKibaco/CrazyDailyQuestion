@@ -27,7 +27,7 @@
  
 你也可以加入个人微信[Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png)，参与本项目的维护或者讨论
 
-### 题海汇总区
+### 题海战区
  
 **第 01 章:** [讲述一下Https的连接建立过程?](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
 
