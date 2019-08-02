@@ -16,7 +16,7 @@
  
  
  ----------------
- &emsp;&emsp;**2019**,关键字:面试造火箭,进去拧螺丝.大浪淘金已经刷走一部分人转行,坚持 Android 的都是勇士.
+ &emsp;&emsp;**2019**,关键字:面试造火箭,工作拧螺丝.大浪淘金已经刷走一部分人转行,坚持 Android 的都是勇士.
  为此我们共建微信群,手撕算法,坚持健身打卡,如果你想加入我们的队伍.
  不妨点star加关注个人微信 [Tel18390833563](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png),带你突破 Android 瓶颈,进阶高级开发
 
