@@ -20,7 +20,6 @@
  为此我们共建微信群,手撕算法,坚持健身打卡,如果你觉的本项目对你有所帮助,
  不妨 star 一下,带你共同进步,突破 Android 开发瓶颈。
 
-
 ### 今日面试题 （2019-08-02）
 
  
@@ -42,6 +41,7 @@
 
 ### 最后
 
- &emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,巩固大家的Android基础,有什么好的建议欢迎进群探讨,添加好友请备注**城市-姓名**。
+  &emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,抬高大家的Android天花板,有什么好的建议欢迎进群探讨,添加好友请备注**HenCoderPlus-期数-城市-姓名**,本项目参考[**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),内容更适合大家.
+ 
 
 
