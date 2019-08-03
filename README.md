@@ -1,6 +1,6 @@
  <p align="center">
    <a href="https://github.com/Moosphan/Android-Daily-Interview" target="_blank">
- 	  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/title.png" width="1300" height="650"/>
+ 	  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/title.png" width="1200" height="200"/>
    </a>
  </p>
  
