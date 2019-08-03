@@ -23,10 +23,12 @@
 <div  align="center">  
  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-01.png" width="600" height="200" />
  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-02.png" width="600" height="200" />
+</div>
+
+</div>
  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="600" height="200" />
  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="600" height="200" />
 </div>
-
 
 <div  align="center">  
 <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/fitness-01.png" width="200" height="360"/>
