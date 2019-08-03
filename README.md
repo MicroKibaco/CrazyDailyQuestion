@@ -41,7 +41,7 @@
  
 
 ### 协作者
-&emsp;&emsp;下面是我收集的一些对本仓库提供有价值的pr或者issue的HenCoder Plus学员，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的[**微信**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png)与我联系。 
+&emsp;&emsp;下面是我收集的一些对本仓库提供有价值的pr或者issue的童鞋，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的[**微信**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png)与我联系。 
 
 <a href="https://github.com/zhjlong">
     <img src="https://avatars0.githubusercontent.com/u/13428247?s=400&v=4" width="45px"></a>
@@ -59,6 +59,6 @@
  
 ### 最后
 
-&emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,抬高大家的Android天花板,有什么好的建议欢迎进群探讨,添加好友请备注**HenCoderPlus-期数-城市-姓名**,本项目100%参考[**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),内容质量更适合大家。
+&emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,抬高大家的Android天花板,有什么好的建议欢迎进群探讨,添加好友请备注**城市-姓名**,本项目100%参考[**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),内容质量更适合大家。
 
 
