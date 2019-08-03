@@ -34,15 +34,12 @@
  
 &emsp;&emsp;**第 01 章:** [**讲述一下Https的连接建立过程?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
 
-### Thanks
-
-&emsp;&emsp;感谢[**南尘每日一问**](https://www.cnblogs.com/liushilin/tag/每日一问/),[**玩 Android**](https://www.wanandroid.com/), [**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),[**HenCoder Plus**](https://hencoder.com/) 为广大安卓开发者无私提供一个比较全面的 Android 学习进阶平台，此项目部分灵感并非本人创意,如有侵权,请联系我 [**小木箱**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png) 修改。
 
 ### 贡献奖励
 &emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度以及回复比较认真的童鞋,可以获得作者精心准备的小礼物一份
  
 
-### Contributor or Issue-Provider
+### 协作者
 
 &emsp;&emsp;下面是我收集的一些对本仓库提供有价值的pr或者issue的HenCoder Plus学员，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的[**微信**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png)与我联系。 
 
@@ -54,6 +51,11 @@
  <a href="https://github.com/happyburglar">  
      <img src="https://avatars0.githubusercontent.com/u/20477349?s=400&v=4" width="45px">
  </a>
+ 
+ ### Thanks
+ 
+ &emsp;&emsp;感谢[**南尘每日一问**](https://www.cnblogs.com/liushilin/tag/每日一问/),[**玩 Android**](https://www.wanandroid.com/), [**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),[**HenCoder Plus**](https://hencoder.com/) 为广大安卓开发者无私提供一个比较全面的 Android 学习进阶平台，此项目部分灵感并非本人创意,如有侵权,请联系我 [**小木箱**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png) 修改。
+
  
 ### 最后
 
