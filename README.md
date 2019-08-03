@@ -41,6 +41,6 @@
 
 ### 最后
 
- &emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder学员查漏补缺,巩固大家的Android基础,有什么好的建议欢迎进群探讨,添加好友请备注**城市-姓名**
+ &emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,巩固大家的Android基础,有什么好的建议欢迎进群探讨,添加好友请备注**城市-姓名**
 
 
