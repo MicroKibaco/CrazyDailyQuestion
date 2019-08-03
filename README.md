@@ -46,7 +46,7 @@
 
 ### 协作者
 
-&emsp;&emsp;下面是我收集的一些对本仓库提供有价值的pr或者issue的HenCoder Plus学员，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的[**微信**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png)与我联系。 
+&emsp;&emsp;下面是我收集的一些对本仓库提供有价值的pr或者issue的HenCoder Plus学员人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的[**微信**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png)与我联系。 
 
 <a href="https://github.com/zhjlong">
     <img src="https://avatars0.githubusercontent.com/u/13428247?s=400&v=4" width="45px"></a>
