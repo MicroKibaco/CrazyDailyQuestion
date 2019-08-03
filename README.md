@@ -21,10 +21,10 @@
  不妨 star 一下,带你共同进步,突破 Android 开发瓶颈。
 
 <div  align="center">  
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-01.png" width="750" height="250" />
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-02.png" width="750" height="250" />
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="750" height="250" />
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="750" height="250" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-01.png" width="600" height="200" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-02.png" width="600" height="200" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="600" height="200" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="600" height="200" />
 </div>
 
 
