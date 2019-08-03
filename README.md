@@ -21,14 +21,13 @@
  不妨 star 一下,带你共同进步,突破 Android 开发瓶颈。
 
 <div  align="center">  
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-01.png" width="400" height="400" />
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-02.png" width="400" height="400" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-01.png" width="200" height="100" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-02.png" width="200" height="100" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="200" height="100" />
+ <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="200" height="100" />
 </div>
 
-</div>
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="400" height="400" />
- <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png" width="400" height="400" />
-</div>
+ 
 
 <div  align="center">  
 <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/fitness-01.png" width="200" height="360"/>
