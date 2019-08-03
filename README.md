@@ -17,8 +17,10 @@
  
  ----------------
  &emsp;&emsp;**2019**,关键字:面试造火箭,工作拧螺丝。大浪淘沙已经刷走一部分人转行,坚持 Android 的都是勇士。
- 为此我们共建微信群,手撕算法,坚持健身打卡,如果你觉的本项目对你有所帮助,
+ 为此我们共建微信群,[手撕算法](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png),坚持[健身打卡](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/fitness-01.png),如果你觉的本项目对你有所帮助,
  不妨 star 一下,带你共同进步,突破 Android 开发瓶颈。
+
+ 
 
  
 
