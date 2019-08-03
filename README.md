@@ -28,7 +28,7 @@
 
 ### 如何贡献？
  
-&emsp;&emsp;你可以添加个人微信 [**小木箱**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png)，参与本项目的维护或者讨论。
+&emsp;&emsp;你可以添加个人微信 [**小木箱**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png)，参与本项目的维护或者讨论。
 
 ### 题海战区
  
@@ -38,7 +38,9 @@
 
 &emsp;&emsp;感谢[**南尘每日一问**](https://www.cnblogs.com/liushilin/tag/每日一问/),[**玩 Android**](https://www.wanandroid.com/), [**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),[**HenCoder Plus**](https://hencoder.com/) 为广大安卓开发者无私提供一个比较全面的 Android 学习进阶平台，此项目部分灵感并非本人创意,如有侵权,请联系我 [**小木箱**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png) 修改。
 
-
+### 贡献奖励
+&emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度以及回复比较认真的童鞋,可以获得作者精心准备的小礼物一份
+ 
 ### 最后
 
  &emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,抬高大家的Android天花板,有什么好的建议欢迎进群探讨,添加好友请备注**HenCoderPlus-期数-城市-姓名**,本项目100%参考[**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview),内容质量更适合大家。
