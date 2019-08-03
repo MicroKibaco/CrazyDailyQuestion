@@ -1,12 +1,12 @@
  <p align="center">
    <a href="https://github.com/Moosphan/Android-Daily-Interview" target="_blank">
- 	  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/title.png" width="1200" height="200"/>
+ 	  <img src="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/title.png" width="1200" height="200"/>
    </a>
  </p>
  
  <p align="center">
    <a href="#主要面向对象"><img src="https://img.shields.io/badge/%E9%9D%A2%E5%90%91-Android%E5%BC%80%E5%8F%91-%232CC159.svg"></a>
-   <a href="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/wechat.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%8F%B7-Tel18390833563-blue.svg"></a>
+   <a href="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%8F%B7-Tel18390833563-blue.svg"></a>
    <a href="#贡献"><img src="https://img.shields.io/badge/Welcome-%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC-orange.svg" alt="如何贡献？"></a>
    <a href="https://www.wanandroid.com"><img src="https://img.shields.io/badge/Thanks-wanandroid-%23095B87.svg" alt="Thanks"></a>
    <a href="https://github.com/Moosphan/Android-Daily-Interview"><img src="https://img.shields.io/badge/Thanks-AndroidDailyInterview-%23095B87.svg" alt="Thanks"></a>
@@ -24,7 +24,7 @@
 
  
 
-####  &emsp;&emsp;[讲述一下Https的连接建立过程? ](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
+####  &emsp;&emsp;[简述一下Https的连接建立过程及Https为什么比Http安全? ](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
 
 ### 如何贡献？
  
