@@ -59,6 +59,6 @@
  
 ### 最后
 
-&emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,抬高大家的Android天花板,有什么好的建议欢迎进群探讨,添加好友请备注**HenCoderPlus-城市-姓名**,本项目100%参考,为了保证群员质量,避免水群,原则上仅接收HenCoder Plus学员,后期交流群扩大可考虑其他成员,其实,无论内容和质量[**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview)更适合大众。
+&emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,抬高大家的Android天花板,有什么好的建议欢迎进群探讨,添加好友请备注**HenCoderPlus-城市-姓名**,本项目也是100%参考**Android-Daily-Interview**,为了保证群员质量,避免水群,原则上仅接收HenCoder Plus学员,后期交流群扩大可考虑其他成员,其实,无论内容和质量[**Android-Daily-Interview**](https://github.com/Moosphan/Android-Daily-Interview)更适合大众。
 
 
