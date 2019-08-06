@@ -26,7 +26,7 @@
 
 ### 今日面试题 （2019-08-04）
 
-####  &emsp;&emsp;[**谈谈你对Http和Https的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
+####  &emsp;&emsp;[**说说你对广播的理解，以及广播是如何实现跨进程通信的？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/4)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/4)
 
 ### 如何贡献？
  
@@ -34,7 +34,7 @@
 
 ### 题海战区
 - **第 01 章:** [**谈谈你对Http和Https的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
-
+- **第 02 章:** [**说说你对广播的理解，以及广播是如何实现跨进程通信的？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/4)
 
 ### 贡献奖励
 &emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度高或回复比较认真的童鞋,可以获得作者精心准备的小礼物一份
