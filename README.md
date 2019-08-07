@@ -16,7 +16,7 @@
 ----------------
 
  &emsp;&emsp;**2019**,关键字:面试造火箭,工作拧螺丝。大浪淘沙已经刷走一部分人转行,坚持 Android 的都是勇士。
- 为此我们共建微信群,[手撕算法](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/algorithm-plus-03.png),坚持[健身打卡](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/fitness-01.png),如果你觉的本项目对你有所帮助,
+ 为此我们共建微信群,[手撕算法](https://github.com/JackLee-pro/algorithm_plus),坚持[健身打卡](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/fitness-01.png),如果你觉的本项目对你有所帮助,
  不妨 star 一下,带你共同进步,突破 Android 开发瓶颈。
 
  
@@ -36,6 +36,7 @@
 - **第 [01](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/01.md) 章:** [**谈谈你对Http和Https的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
 - **第 [02](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/02.md) 章:** [**说说你对广播的理解，以及广播是如何实现跨进程通信的？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/4)
 - **第 [03](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/03.md) 章:** [**说说你对RecyclerView的了解，是否了解其缓存的内部机制？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/7)
+- **第 [04](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/04.md) 章:** [**谈谈对jvm内存模型的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/8)
 
 ### 贡献奖励
 &emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度高或回复比较认真的童鞋,可以获得作者精心准备的小礼物一份
