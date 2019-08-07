@@ -61,7 +61,7 @@
 ### 最后
 
 &emsp;&emsp;建立CrazyDailyQuestion初衷是为了HenCoder Plus学员查漏补缺,抬高大家的Android天花板,有什么好的建议欢迎进群探讨,添加好友请备注**城市-姓名**,本项目也是100%参考**Android-Daily-Interview**,为了保证群员质量,避免水群,
-进群需要满足一下条件之一:
+进群需要满足以下条件之一即可:
 
 - CrazyDailyQuestion 提供有效issue 不低于7条
 - Android实际开发经验三年及三年以上
