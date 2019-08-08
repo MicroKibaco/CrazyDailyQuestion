@@ -39,7 +39,7 @@
 - **第 [04](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/04.md) 章:** [**谈谈你对jvm内存模型的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/8)
 
 ### 贡献奖励
-&emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度高或回复比较认真的童鞋,可以获得作者精心准备的小礼物一份
+&emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度高或回复比较认真的童鞋,可以获得作者精心准备的小礼物一份.
  
 
 ### 协作者
