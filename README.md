@@ -26,7 +26,7 @@
 
 ### 今日面试题 （2019-08-07）
 
-####  &emsp;&emsp;[**说说你对RecyclerView的了解，是否了解其缓存的内部机制？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/7)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/7)
+####  &emsp;&emsp;[**谈谈你对jvm内存模型的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/8)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/8)
 
 ### 如何贡献？
  
@@ -36,7 +36,7 @@
 - **第 [01](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/01.md) 章:** [**谈谈你对Http和Https的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/1)
 - **第 [02](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/02.md) 章:** [**说说你对广播的理解，以及广播是如何实现跨进程通信的？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/4)
 - **第 [03](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/03.md) 章:** [**说说你对RecyclerView的了解，是否了解其缓存的内部机制？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/7)
-- **第 [04](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/04.md) 章:** [**谈谈对jvm内存模型的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/8)
+- **第 [04](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/04.md) 章:** [**谈谈你对jvm内存模型的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/8)
 
 ### 贡献奖励
 &emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度高或回复比较认真的童鞋,可以获得作者精心准备的小礼物一份
