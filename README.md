@@ -26,7 +26,7 @@
 
 ### 今日面试题 （2019-08-12）
 
-####  &emsp;&emsp;[**说说你对Handler的理解(源码角度)?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/10)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/10)
+####  &emsp;&emsp;[**说说你对app（或进程）启动流程的理解?  **](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/11)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/11)
 
 ### 如何贡献？
  
@@ -39,6 +39,7 @@
 - **第 [04](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/04.md) 章:** [**谈谈你对jvm内存模型的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/8)
 - **第 [05](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/05.md) 章:** [**说说Android中的数据存储方式有哪些，分别适合在什么场景下使用？开发中遇到过哪些问题？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/9)
 - **第 [06](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/06.md) 章:** [**说说你对Handler的理解(源码角度)?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/10)
+- **第 [07](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/07.md) 章:** [**说说你对app（或进程）启动流程的理解? **](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/11)
 
 ### 贡献奖励
 &emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度高或回复比较认真的童鞋,可以获得作者精心准备的小礼物一份.
