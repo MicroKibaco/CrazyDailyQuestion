@@ -24,9 +24,9 @@
  
 
 
-### 今日面试题 （2019-08-15）
+### 今日面试题 （2019-08-20）
 
-####  &emsp;&emsp;[**内存溢出和内存泄漏分别是什么，他们之间有什么关系？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/13)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/13)
+####  &emsp;&emsp;[**请说一下View,Activity,Window三者之间的关系?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/16)👉[去答题](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/16)
 
 ### 如何贡献？
  
@@ -42,6 +42,9 @@
 - **第 [07](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/07.md) 章:** [**说说你对app（或进程）启动流程的理解?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/11)
 - **第 [08](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/08.md) 章:** [**谈谈你对冷启动和热启动的理解，开发中遇过到哪些问题，以及如何优化?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/12)
 - **第 [09](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/09.md) 章:** [**内存溢出和内存泄漏分别是什么，他们之间有什么关系？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/13)
+- **第 [10](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/10.md) 章:** [**请说一下你在项目中是如何使用子线程的？子线程和service有什么区别，应用场景有什么不同？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/14)
+- **第 [11](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/11.md) 章:** [**说说HashMap的底层原理与存储过程以及与HashTable,TreeMap,ConcurrentHashMap,LinkedHashMap, WeakHashMap区别?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/15)
+- **第 [12](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/12.md) 章:** [**请说一下View,Activity,Window三者之间的关系?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/16)
 
 ### 贡献奖励
 &emsp;&emsp;为了提高大家打卡活跃度,每隔30个工作日,对于在本项目活跃度高或回复比较认真的童鞋,可以获得作者精心准备的小礼物一份.
