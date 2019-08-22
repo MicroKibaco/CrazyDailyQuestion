@@ -32,7 +32,7 @@
 &emsp;&emsp;你可以添加个人微信 [**小木箱**](https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png)，参与本项目的维护或者讨论。
 
 ### 题海战区
-- **第 [14](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/14.md) 章:** [**说一说自定义View的流程，以及对view的绘制流程的理解？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/18)
+- **第 [14](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/14.md) 章:** [**说一说对AsyncTask的理解，它是同步的还是异步的？有没有读过相关源码?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/18)
 - **第 [13](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/13.md) 章:** [**说一说自定义View的流程，以及对view的绘制流程的理解？**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/17)
 - **第 [12](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/12.md) 章:** [**请说一下View,Activity,Window三者之间的关系?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/16)
 - **第 [11](https://github.com/MicroKibaco/CrazyDailyQuestion/tree/master/chapter/11.md) 章:** [**说说HashMap的底层原理与存储过程以及与HashTable,TreeMap,ConcurrentHashMap,LinkedHashMap, WeakHashMap区别?**](https://github.com/MicroKibaco/CrazyDailyQuestion/issues/15)
