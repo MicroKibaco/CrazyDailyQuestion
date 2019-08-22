@@ -7,9 +7,9 @@
  <p align="center">
    <a href="#主要面向对象"><img src="https://img.shields.io/badge/%E9%9D%A2%E5%90%91-Android%E5%BC%80%E5%8F%91-%232CC159.svg"></a>
    <a href="https://github.com/MicroKibaco/CrazyDailyQuestion/issues"><img src="https://img.shields.io/github/issues-raw/MicroKibaco/CrazyDailyQuestion.svg?color=%23dd5656&label=%E5%BD%93%E5%89%8D%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B0"></a>
-   <a href="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%8F%B7-小木箱-green.svg"></a>
+   <a href="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/image/wechat.png"><img src="https://img.shields.io/badge/微信号-Tel18390833563-green.svg"></a>
    <a href="https://ke.qq.com/course/381952"><img src="https://img.shields.io/badge/Welcome-%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC-orange.svg" alt="如何贡献？"></a>
-   <a href="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/learn-res.md"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%8F%B7-学习资源-pink.svg"></a>
+   <a href="https://raw.githubusercontent.com/MicroKibaco/CrazyDailyQuestion/master/doc/learn-res.md"><img src="https://img.shields.io/badge/Link-学习资源-pink.svg"></a>
 </p>
  
 ----------------
